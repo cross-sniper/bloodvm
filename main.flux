@@ -1,7 +1,7 @@
 # Fibonacci sequence
-# 1,000,000 numbers will be generated
+# 1000 numbers will be generated
 
-var n 1000000        # Set the number of terms
+var n 1000        # Set the number of terms
 var a 0
 var b 1
 var temp 0
